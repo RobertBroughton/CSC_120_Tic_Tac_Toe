@@ -1,0 +1,7 @@
+rowOne = ["-","-","-"]
+rowTwo = ["-","-","-"]
+rowThree = ["-","-","-"]
+board = [rowOne,rowTwo,rowThree]
+def printBoard():
+    for x in board:
+        print(x)
